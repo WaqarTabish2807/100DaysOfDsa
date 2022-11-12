@@ -2,6 +2,8 @@
 ## Topics:
 This table contains the Questions I did during the 100DaysOfDSA. 
 
+### These solutions can be copied directly to the specified leetcode Problem for smooth running. 
+
 | Day No. | Questions | Solution |
 | --- | --- | --- |
 | Day 01 | 1.Two Sum,<br>2. Best Time to Buy and Sell Stock,<br>3. Majority Element,<br>4. Move Zeroes,<br>5. Squares of a Sorted Array,<br>6. Merge Sorted Array | [Day 01](Day01) |
