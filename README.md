@@ -1,4 +1,6 @@
 # 100DaysOfDsa
+## Topics:
+This table contains the Questions I did during the 100DaysOfDSA. 
 
 | Day No. | Questions | Solution |
 | --- | --- | --- |
