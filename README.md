@@ -2,7 +2,7 @@
 ## Topics:
 This table contains the Questions I did during the 100DaysOfDSA. 
 
-### These solutions can be copied directly to the specified leetcode Problem for smooth running. 
+These solutions can be copied directly to the specified leetcode Problem for smooth running. 
 
 | Day No. | Questions | Solution |
 | --- | --- | --- |
